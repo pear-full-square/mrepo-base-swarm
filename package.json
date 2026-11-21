@@ -1,0 +1,14 @@
+{
+  "name": "mrepo-base-swarm",
+  "version": "0.1.0",
+  "description": "Module: the mrepo swarm protocol, a host's node management: a swarm made with its master, its nodes deployed into it and registered.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "brittle-bare test/*.test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "brittle": "4.5.0"
+  }
+}
